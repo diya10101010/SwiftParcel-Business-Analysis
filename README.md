@@ -105,19 +105,17 @@ The analysis identified:
 - Analysis of new versus returning customers showed differences in order volume, revenue and operational performance
 - Warehouse and delivery performance were compared to identify areas for further investigation
 
+
 ## Project Files
 
-### Business Analysis
-Contains the full written project documentation, including the analysis, findings and recommendations.
-
-### Excel / Google Sheets
-Contains the completed Google Sheets analysis workbook, exported as an Excel-compatible `.xlsx` file, and the raw dataset.
-
-### Power BI
-Contains the PDF export of the Power BI dashboard.
-
-### SQL
-Contains the SQL analysis queries and the CSV data used for the SQL analysis.
+- [Business Analysis Project](Business%20Analysis/SwiftParcel_Business_Analysis_Project.pdf) – Full project documentation, analysis, findings and recommendations.
+- [Power BI Dashboard](Power%20BI/SwiftParcel_Logistics_Performance_Analysis.pdf) – PDF export of the Power BI dashboard.
+- [Excel / Google Sheets Analysis](Excel/SwiftParcel_Business_Analytics.xlsx) – Completed analysis workbook, originally created in Google Sheets and exported as `.xlsx`.
+- [Raw Dataset](Excel/SwiftParcel_Data_Raw.xlsx) – Raw dataset used for the analysis.
+- [SQL Analysis](SQL/SwiftParcel_SQL_Analysis.sql) – SQL queries used to analyse the data.
+- [SQL Data – Customers](SQL/SwiftParcel_Business_Analytics%20-%20Customers.csv)
+- [SQL Data – Orders](SQL/SwiftParcel_Business_Analytics%20-%20Orders_Raw.csv)
+- [SQL Data – Warehouses](SQL/SwiftParcel_Business_Analytics%20-%20Warehouses.csv)
 
 ## Skills Demonstrated
 
