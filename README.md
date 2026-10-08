@@ -107,8 +107,8 @@ The analysis identified:
 ### Business Analysis
 Contains the full written project documentation, including the analysis, findings and recommendations.
 
-### Excel
-Contains the completed analysis workbook and raw dataset.
+### Excel / Google Sheets
+Contains the completed Google Sheets analysis workbook, exported as an Excel-compatible `.xlsx` file, and the raw dataset.
 
 ### Power BI
 Contains the PDF export of the Power BI dashboard.
