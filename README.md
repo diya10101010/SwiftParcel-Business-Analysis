@@ -76,6 +76,9 @@ The SQL queries and supporting CSV data are available in the `SQL` folder.
 
 An interactive Power BI dashboard was created to present key business performance metrics and trends.
 
+![SwiftParcel Power BI Dashboard](Screenshots/SwiftParcel_Dashboard_1.png)
+![SwiftParcel Power BI Dashboard](Screenshots/SwiftParcel_Dashboard_2.png)
+
 The dashboard includes:
 
 - KPI cards
