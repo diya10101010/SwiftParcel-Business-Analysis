@@ -1,0 +1,11 @@
+Warehouse ID,Warehouse Name,Region,Capacity,Location Type
+WH01,London North,London,18000,Urban
+WH02,London South,London,24000,Urban
+WH03,Birmingham Central,West Midlands,26000,Urban
+WH04,Manchester,North West,22000,Urban
+WH05,Leeds,Yorkshire,17000,Urban
+WH06,Bristol,South West,14000,Regional
+WH07,Cambridge,East of England,15000,Regional
+WH08,Glasgow,Scotland,16000,Regional
+WH09,Brighton,South East,12000,Regional
+WH10,Liverpool,North West,13000,Regional
